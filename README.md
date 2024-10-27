@@ -1,5 +1,6 @@
+<!-- PROJECT LOGO --> <br /> <p align="center"> <a href="https://github.com/Talkative-Banana/AES"> <img src="logo.png" alt="Logo"> </a>
 # AES
-Advanced Encryption Algorithm
+Advanced Encryption Standard
 
 # Project Overview
 This project implements the Advanced Encryption Standard (AES) algorithm to perform encryption and decryption on 128-bit plaintext. We developed two main programs for this task: one for encryption and one for decryption. This AES implementation uses 10 rounds of encryption and decryption, applying key expansion and various transformations according to the AES specification.
